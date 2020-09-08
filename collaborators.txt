@@ -1,4 +1,4 @@
-﻿Made with love in Platzi by:
+﻿	Made with love in Platzi by:
 
 -Rene Gonzalez (@ReneG115)
 -Raúl Hernández (@realraulmar)
@@ -9,4 +9,6 @@
 -Israel Calderón (@icalderond)
 -Larry Kevin (@larrykevin)
 -Elias Rayas (@pihiwatari)
+-Luis Alberto Ducuara (@ladbdevelopment)
+-Alex Tua (@alextuadev)
 -Bianor Chipile (@bianorcode)
